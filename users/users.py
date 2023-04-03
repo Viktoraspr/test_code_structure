@@ -29,6 +29,7 @@ LOCAL_DB_USER = DataBaseUser(
 WB_USER = WebUser(
     email='fdjfdfj@orioninc.com',
     password='fghkgfhkfghk53453',
+    port=8080,
 )
 
 
