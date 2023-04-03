@@ -30,3 +30,10 @@ WB_USER = WebUser(
     email='fdjfdfj@orioninc.com',
     password='fghkgfhkfghk53453',
 )
+
+
+
+WB_USER_3 = WebUser(
+    email='fdjfdfj@asdg.com',
+    password='fghkgfhkfghk53453',
+)
