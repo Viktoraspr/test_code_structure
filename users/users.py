@@ -31,10 +31,3 @@ WB_USER = WebUser(
     password='asfhgpfdohmpoh1196',
     port=8080,
 )
-
-
-
-WB_USER_3 = WebUser(
-    email='fdjfdfj@asdg.com',
-    password='fghkgfhkfghk53453',
-)
